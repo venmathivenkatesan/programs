@@ -1,8 +1,8 @@
-k = int(input(" "))
-if k >= 0:
-   if k == 0:
+v = int(input(" "))
+if v >= 0:
+   if v == 0:
       print("Zero")
    else:
       print("Positive")
-else:      
+else:
    print("Negative")
